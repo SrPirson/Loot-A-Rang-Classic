@@ -1,4 +1,4 @@
-## Interface: 50400
+## Interface: 50500
 ## Title: Loot-A-Rang Classic
 ## Notes: Automatiza Loot-A-Rang en WoW Classic.
 ## Author: Pirson, Numbb
