@@ -1,7 +1,27 @@
 ## Interface: 50500
-## Title: Loot-A-Rang Classic
-## Notes: Automatiza Loot-A-Rang in WoW Classic.
-## Author: Pirson, Numbb
 ## Version: 1.00
+## Author: Pirson, Numbb
 
-main.lua
+
+## Title: |TInterface/Addons/LootARangClassic/img/logo_larc:16:16|t |cffd597ffLoot-A-Rang Classic|r
+
+
+## Notes: |cFF33CCFFAutomatiza Loot-A-Rang in WoW Classic.|r
+## Notes-deDE: |cFF33CCFFAutomatisiert Plünderang in WoW Classic.|r
+## Notes-esES: |cFF33CCFFAutomatiza Despojador a distancia en WoW Classic.|r
+## Notes-esMX: |cFF33CCFFAutomatiza Despojador a distancia en WoW Classic.|r
+## Notes-frFR: |cFF33CCFFAutomatise Plumerang dans WoW Classic.|r
+## Notes-itIT: |cFF33CCFFAutomatizza Loot-A-Rang in WoW Classic.|r
+## Notes-koKR: |cFF33CCFFWoW 클래식에서 원거리 획득기을 자동화합니다.|r
+## Notes-ptBR: |cFF33CCFFAutomatiza Saque-o-rangue no WoW Classic.|r
+## Notes-ptPT: |cFF33CCFFAutomatiza Saque-o-rangue no WoW Classic.|r
+## Notes-ruRU: |cFF33CCFFАвтоматизирует Поисковик трофеев в WoW Classic.|r
+## Notes-zhCN: |cFF33CCFF在 WoW Classic 中自动化 远程拾取器。|r
+## Notes-zhTW: |cFF33CCFF在 WoW Classic 中自動化 撿拾套索。|r
+
+
+## X-Curse-Project-ID: 1331866
+## X-Wago-ID: 4N2mDaGL
+
+
+LootARangClassic.lua
